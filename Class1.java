@@ -12,5 +12,5 @@ public class Class1 {
 		// Placeholder method (v3.0)
 	}
 
-
+	// This comment is just to notice on github
 }
