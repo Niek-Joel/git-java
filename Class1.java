@@ -10,6 +10,7 @@ public class Class1 {
 	
 	private void f3() {
 		// Placeholder method (v3.0)
+		// Hotfix change added to f3()
 	}
 
 	// This comment is just to notice on github
