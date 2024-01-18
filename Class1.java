@@ -14,4 +14,8 @@ public class Class1 {
 	}
 
 	// This comment is just to notice on github
+
+	private void f4() {
+		// Placeholder method. (First branch done here)	
+	}
 }
